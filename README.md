@@ -1,5 +1,5 @@
 # The Meme Radar 📡 
-
+ 
 **Track meme stock trends from Reddit in real-time.**
 
 A financial intelligence app that monitors r/wallstreetbets, r/stocks, and r/investing to identify which stocks are gaining or losing attention, with sentiment analysis powered by authentic trading community terminology.
