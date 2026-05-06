@@ -1,4 +1,4 @@
-# The Meme Radar 📡
+# The Meme Radar 📡 
 
 **Track meme stock trends from Reddit in real-time.**
 
