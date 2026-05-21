@@ -1,17 +1,17 @@
 # The Meme Radar 📡 
  
-**Track meme stock trends from Reddit in real-time.**
+**Track meme stock trends from Reddit, X, and TikTok in real-time.**
 
-A financial intelligence app that monitors r/wallstreetbets, r/stocks, and r/investing to identify which stocks are gaining or losing attention, with sentiment analysis powered by authentic trading community terminology.
+A financial intelligence app that monitors r/wallstreetbets, r/stocks, r/investing, X, and TikTok to identify which stocks/memes are gaining or losing attention, with sentiment analysis powered by authentic trading community terminology.
 
 ---
 
 ## 🎯 What It Does
 
-- **Scans Reddit** every 5 minutes for stock mentions
+- **Scans Sites** every 5 minutes for stock and meme mentions
 - **Analyzes sentiment** using wallstreetbets lingo (diamond hands 💎🙌, tendies 🍗, to the moon 🚀)
-- **Tracks top 10 trending stocks** (rising in mentions)
-- **Identifies fading stocks** (losing interest)
+- **Tracks top 10 trending stocks/memes** (rising in mentions)
+- **Identifies fading stocks/memes** (losing interest)
 - **Shows evidence** - actual posts/comments that influenced sentiment decisions
 - **Visualizes trends** with charts and graphs
 - **Mobile-friendly** modern UI
