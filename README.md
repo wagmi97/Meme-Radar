@@ -1,4 +1,4 @@
-# The Meme Radar 📡 
+# The Meme Radar 📡  (Pons CA: 0xc31a440316a29f8cee06adeaa30299f0ea8741b3)
  
 **Track meme stock trends from Reddit, X, and TikTok in real-time.**
 
